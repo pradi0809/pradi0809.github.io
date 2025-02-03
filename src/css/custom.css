@@ -1,0 +1,117 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  text-rendering: optimizeLegibility !important;
+  line-height: 1.5;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  text-rendering: optimizeLegibility !important;
+  line-height: 1.5;
+}
+
+.navbar__title {
+  font-size: 1.2rem;
+  white-space: nowrap;
+}
+
+.profile--title h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: --ifm-color-primary-lighter;
+  line-height: 25px;
+  margin: 0 0 10px;
+}
+
+.profile-details {
+  font-size: 1.2em;
+  line-height: 35px;
+}
+
+.profile-details h2 {
+  font-size: 1.75em;
+  font-weight: 300;
+  margin: 0px 0 10px;
+}
+
+.crop-container {
+  height: 300px;
+  overflow: hidden;
+  /*margin-right: -50px;*/
+}
+.crop-container img {
+  margin-top: 0px;
+  height: auto;
+  width: auto;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.profile--title h2 {
+  font-size: 1.75em;
+  font-weight: 300;
+  margin: 20px 0 10px;
+}
+
+.navbar__inner {
+  width: 100% !important;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+  .navbar__inner {
+    max-width: 1290px;
+  }
+  .profile-details {
+    margin-top: 0px !important;
+  }
+}
+
+@media(max-width: 1023px) {
+  .profile-details {
+    margin-top: -180px;
+  }
+}
+
+@media(min-width: 900px) {
+  .profile-details {
+    margin-top: -180px;
+    margin-right: -25px;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .profile-details {
+    margin-top: -180px;
+  }
+  .crop-container {
+    margin-right: 0px;
+  }
+}
