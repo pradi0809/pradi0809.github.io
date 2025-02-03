@@ -34,10 +34,16 @@ function Feature({title, Svg, description}: FeatureItem) {
         <div className="text--center padding-horiz--md profile--title">
             <Heading as="h2">{title}</Heading>
             <Heading as="h3">{description}</Heading>
-            <Heading as="h4">
-                <FontAwesomeIcon icon={faLinkedin} size="2xl"/>
-                <FontAwesomeIcon icon={faGithub} size="2xl"/>
-            </Heading>
+            <div className="social-icons">
+                <ul>
+                    <li>
+                        <FontAwesomeIcon icon={faLinkedin} size="2xl"/>
+                    </li>
+                    <li>
+                        <FontAwesomeIcon icon={faGithub} size="2xl"/>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
   );
