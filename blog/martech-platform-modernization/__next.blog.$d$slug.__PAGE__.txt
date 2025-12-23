@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[67209,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"BlogContentEnhancer"]
+3:I[73270,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"BlogNav"]
+4:I[22016,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],""]
+5:I[5500,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"Image"]
+11:I[97367,["https://prenukaiah.com/_next/static/chunks/ff1a16fafef87110.js","https://prenukaiah.com/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+0:{"buildId":"99001wpI6bz_lCZUSUOM2","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-7xl mx-auto px-4 py-12","children":[["$","$L2",null,{}],["$","div",null,{"className":"grid lg:grid-cols-4 gap-8","children":[["$","div",null,{"className":"lg:col-span-1 order-2 lg:order-1","children":["$","$L3",null,{"currentSlug":"martech-platform-modernization"}]}],["$","div",null,{"className":"lg:col-span-3 order-1 lg:order-2","children":[["$","$L4",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to blog"]}],["$","article",null,{"children":["$undefined",["$","header",null,{"className":"mb-8","children":[["$","$L4",null,{"href":"/blog/category/martech","className":"inline-flex items-center gap-1 text-sm text-blue-600 hover:text-blue-700 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"MarTech"]}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-6 leading-tight","children":"MarTech Platform Modernization: From Fragmented Tools to Unified Customer Experience"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-gray-600 dark:text-gray-400 mb-6","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","div",null,{"className":"relative overflow-hidden w-8 h-8 rounded-full","children":["$","$L5",null,{"src":"/profile_photo.png","alt":"Pradeep Renukaiah","fill":true,"className":"object-cover","style":{"objectPosition":"center 15%"},"priority":false}]}],["$","span",null,{"className":"font-medium","children":"Pradeep Renukaiah"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2024-12-13","children":"December 13, 2024"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"4 min read"}]]}],["$","button",null,{"className":"flex items-center gap-1 hover:text-blue-600 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-share2 w-4 h-4","children":[["$","circle","gq8acd",{"cx":"18","cy":"5","r":"3"}],["$","circle","w7nqdw",{"cx":"6","cy":"12","r":"3"}],["$","circle","1xt0gg",{"cx":"18","cy":"19","r":"3"}],["$","line","47mynk",{"x1":"8.59","x2":"15.42","y1":"13.51","y2":"17.49"}],["$","line","1n3mei",{"x1":"15.41","x2":"8.59","y1":"6.51","y2":"10.49"}],"$undefined"]}],["$","span",null,{"children":"Share"}]]}]]}],["$","p",null,{"className":"text-xl text-gray-700 dark:text-gray-300 leading-relaxed","children":"Most enterprises didn't design their MarTech stack — they accumulated it. Learn how to modernize from fragmented tools to a unified platform that powers real-time, personalized customer experiences."}]]}],"$L6","$L7","$L8","$L9"]}]]}]]}]]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+c:T19f2,<p>Most enterprises didn&#39;t design their MarTech stack — they accumulated it.</p>
+<p>Over time, new tools were added to solve specific problems: email campaigns, web analytics, personalization, social, loyalty, experimentation. Each decision made sense in isolation. Together, they created a fragmented ecosystem that struggles to deliver what customers now expect: relevant, consistent, real-time experiences across every touchpoint.</p>
+<p>Having led MarTech modernization initiatives across multiple retail organizations, one lesson stands out clearly: <strong>modernization is less about replacing tools and more about redesigning how customer experience is powered by the platform.</strong></p>
+<h2>The Real MarTech Problem Isn&#39;t Scale — It&#39;s Fragmentation</h2>
+<p>In most large enterprises, the current state looks familiar:</p>
+<ul>
+<li>15–20+ marketing platforms owned by different teams</li>
+<li>Customer data scattered across systems with no real-time coherence</li>
+<li>Inconsistent messaging across web, mobile, email, and in-store</li>
+<li>Limited ability to personalize beyond rules and segments</li>
+<li>High integration effort just to launch or measure a campaign</li>
+</ul>
+<p>The result? Marketing teams work harder every year, but customer experience improves only incrementally.</p>
+<p>This isn&#39;t a tooling problem. It&#39;s a platform architecture problem.</p>
+<h2>Why MarTech Modernization Has Become a Strategic Imperative</h2>
+<p>Modernization works when it focuses on capabilities, not products.</p>
+<p>At its core, a modern MarTech platform enables:</p>
+<ul>
+<li><strong>A unified, trusted customer view</strong></li>
+<li><strong>Real-time decisioning, not batch-based assumptions</strong></li>
+<li><strong>Orchestrated journeys, not disconnected campaigns</strong></li>
+<li><strong>Data-driven learning, powered by analytics and AI</strong></li>
+</ul>
+<p>Organizations that get this right stop asking, &quot;Which tool should we buy next?&quot; They start asking, &quot;What experience should the platform make possible?&quot;</p>
+<h2>The Architectural Backbone: Data, Integration, and Decisioning</h2>
+<h3>1. Customer Data Platform as the Foundation</h3>
+<p>A modern MarTech stack needs a single, authoritative customer data layer.</p>
+<p>A well-implemented CDP:</p>
+<ul>
+<li>Ingests data from every customer touchpoint</li>
+<li>Resolves identities into real-time customer profiles</li>
+<li>Supports segmentation, activation, and analytics</li>
+<li>Enforces governance, consent, and privacy by design</li>
+</ul>
+<p>This layer is not just for marketing — it becomes a shared enterprise capability.</p>
+<h3>2. Integration Designed for Real Time</h3>
+<p>Successful MarTech platforms adopt modern integration patterns:</p>
+<ul>
+<li><strong>API-first connectivity</strong> for flexibility</li>
+<li><strong>Event-driven architectures</strong> for behavioral triggering</li>
+<li><strong>Cloud-native scalability</strong> to handle peaks in engagement</li>
+<li><strong>Loose coupling</strong> to avoid vendor lock-in</li>
+</ul>
+<p>When data flows in real time, experiences can respond in real time.</p>
+<h3>3. Personalization and Orchestration at Scale</h3>
+<p>True personalization requires more than content variation.</p>
+<p>Modern platforms enable:</p>
+<ul>
+<li><strong>Machine learning–driven predictions</strong> and next-best actions</li>
+<li><strong>Journey orchestration</strong> based on behavior, not assumptions</li>
+<li><strong>Consistent experiences</strong> across email, web, mobile, and paid media</li>
+<li><strong>Continuous optimization</strong> through experimentation and feedback loops</li>
+</ul>
+<p>This is where customer experience shifts from reactive to adaptive.</p>
+<h2>A Pragmatic Path to Modernization (What Actually Works)</h2>
+<p>Big-bang transformations rarely succeed. The most effective programs follow a phased, value-driven approach.</p>
+<p><img src="/images/blog/Martech-phases.png" alt="Modernization Framework"></p>
+<p>Each phase delivers business value independently, while building toward a cohesive platform.</p>
+<h2>Measuring What Matters: Beyond Tool Metrics</h2>
+<p>Modernization success must be measured at multiple levels.</p>
+<h3>Technical Health</h3>
+<ul>
+<li>Data freshness and accuracy</li>
+<li>API performance and reliability</li>
+<li>Profile completeness and consistency</li>
+</ul>
+<h3>Customer Experience</h3>
+<ul>
+<li>Engagement lift from personalization</li>
+<li>Journey completion and conversion rates</li>
+<li>Experience consistency across channels</li>
+</ul>
+<h3>Business Impact</h3>
+<ul>
+<li>Campaign ROI and attribution accuracy</li>
+<li>Customer lifetime value growth</li>
+<li>Reduced acquisition and operational costs</li>
+</ul>
+<p>When done right, modernization improves speed, quality, and confidence in decision-making.</p>
+<h2>The Hardest Challenges Aren&#39;t Technical</h2>
+<p>The toughest obstacles are usually organizational:</p>
+<ul>
+<li>Skill gaps across marketing and technology teams</li>
+<li>Process redesign and ownership alignment</li>
+<li>Resistance to platform thinking over tool ownership</li>
+</ul>
+<p>The most successful programs share common traits:</p>
+<ul>
+<li><strong>Strong executive sponsorship</strong></li>
+<li><strong>Cross-functional collaboration</strong></li>
+<li><strong>Incremental wins that build trust</strong></li>
+<li><strong>Continuous learning and iteration</strong></li>
+</ul>
+<p>MarTech modernization succeeds when it&#39;s treated as a product and capability, not a one-time project.</p>
+<h2>Looking Ahead: Future-Proofing the MarTech Platform</h2>
+<p>The next wave of differentiation will come from:</p>
+<ul>
+<li><strong>AI-driven decisioning and content generation</strong></li>
+<li><strong>Intelligent, autonomous campaign orchestration</strong></li>
+<li><strong>New engagement channels and connected ecosystems</strong></li>
+<li><strong>Privacy-first, trust-centric data strategies</strong></li>
+</ul>
+<p>Platforms built on flexible, event-driven, and cloud-native foundations are the ones that can evolve without constant reinvention.</p>
+<h2>Final Thought</h2>
+<p>MarTech modernization isn&#39;t about chasing the latest tool or trend. It&#39;s about designing a platform that continuously translates customer signals into meaningful experiences.</p>
+<p>Organizations that win in this space don&#39;t modernize once — they build the capability to modernize continuously.</p>
+<hr>
+<p><em>How is your organization approaching MarTech modernization? I&#39;d be interested to discuss strategies that align with your specific customer experience goals and technical constraints.</em></p>
+6:["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1 prose-code:py-0.5 prose-code:rounded prose-pre:bg-gray-100 dark:prose-pre:bg-gray-800","dangerouslySetInnerHTML":{"__html":"$c"}}]
+7:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900 dark:text-gray-100 mb-4","children":"Tags"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L4","MarTech",{"href":"/blog/tag/martech","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"MarTech"]}],["$","$L4","Customer Experience",{"href":"/blog/tag/customer experience","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Customer Experience"]}],["$","$L4","Platform Modernization",{"href":"/blog/tag/platform modernization","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Platform Modernization"]}],["$","$L4","Digital Marketing",{"href":"/blog/tag/digital marketing","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Digital Marketing"]}]]}]]}]
+8:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"relative overflow-hidden w-16 h-16 rounded-full flex-shrink-0","children":["$","$L5",null,{"src":"/profile_photo.png","alt":"Pradeep Renukaiah","fill":true,"className":"object-cover","style":{"objectPosition":"center 20%"},"priority":false}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold text-lg mb-2","children":["About ","Pradeep Renukaiah"]}],["$","p",null,{"className":"text-gray-700 dark:text-gray-300 mb-4","children":"Strategic and hands-on technology leader with 21+ years of experience driving large-scale digital commerce transformation, cloud-native engineering, and MarTech platform modernization. Leading enterprise architecture, cloud transformation, and developer experience initiatives across digital commerce, cloud platforms, CRM, MDM, and MarTech ecosystems that power mission-critical retail and e-commerce operations."}],["$","a",null,{"href":"https://www.linkedin.com/in/pradeep0809/","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-700 font-medium","children":"Connect on LinkedIn →"}]]}]]}]}]
+9:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"bg-gray-50 dark:bg-gray-800 rounded-lg p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-message-circle w-5 h-5 text-blue-600","children":[["$","path","vv11sd",{"d":"M7.9 20A9 9 0 1 0 4 16.1L2 22Z"}],"$undefined"]}],["$","h3",null,{"className":"text-lg font-semibold","children":"Share Your Thoughts"}]]}],["$","p",null,{"className":"text-gray-700 dark:text-gray-300 mb-6","children":"I'd love to hear your feedback, questions, or thoughts on this article. Here are several ways to connect and continue the conversation:"}],["$","div",null,{"className":"grid md:grid-cols-2 gap-4","children":[["$","a",null,{"href":"mailto:hello@prenukaiah.com?subject=Feedback%20on%3A%20MarTech%20Platform%20Modernization%3A%20From%20Fragmented%20Tools%20to%20Unified%20Customer%20Experience&body=Hi%20Pradeep%2C%0A%0AI%20just%20read%20your%20article%20%22MarTech%20Platform%20Modernization%3A%20From%20Fragmented%20Tools%20to%20Unified%20Customer%20Experience%22%20and%20wanted%20to%20share%20some%20thoughts%3A%0A%0A%5BYour%20feedback%20here%5D%0A%0ABest%20regards","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail w-4 h-4 text-blue-600","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Email Me"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Send direct feedback or questions"}]]}]]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fprenukaiah.com%2Fblog%2Fmartech-platform-modernization","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link w-4 h-4 text-blue-600","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Discuss on LinkedIn"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Share and start a professional discussion"}]]}]]}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Great%20insights%20from%20@pradeep0809:%20MarTech%20Platform%20Modernization%3A%20From%20Fragmented%20Tools%20to%20Unified%20Customer%20Experience&url=https%3A%2F%2Fprenukaiah.com%2Fblog%2Fmartech-platform-modernization","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":["$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]
+a:["$","script","script-0",{"src":"https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js","async":true}]
+b:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+d:["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-share2 w-4 h-4 text-blue-600","children":[["$","circle","gq8acd",{"cx":"18","cy":"5","r":"3"}],["$","circle","w7nqdw",{"cx":"6","cy":"12","r":"3"}],["$","circle","1xt0gg",{"cx":"18","cy":"19","r":"3"}],["$","line","47mynk",{"x1":"8.59","x2":"15.42","y1":"13.51","y2":"17.49"}],["$","line","1n3mei",{"x1":"15.41","x2":"8.59","y1":"6.51","y2":"10.49"}],"$undefined"]}]}]
+e:["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Share on Twitter"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Share with your network"}]]}]
+f:["$","a",null,{"href":"https://www.linkedin.com/in/pradeep0809/","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-heart w-4 h-4 text-blue-600","children":[["$","path","c3ymky",{"d":"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Connect on LinkedIn"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Let's connect and continue the conversation"}]]}]]}]
+10:["$","div",null,{"className":"mt-6 pt-4 border-t border-gray-200 dark:border-gray-600","children":["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":[["$","strong",null,{"children":"Response Time:"}]," I typically respond to emails and LinkedIn messages within 24-48 hours. Looking forward to hearing from you!"]}]}]
+13:null

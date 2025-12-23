@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:I[67209,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"BlogContentEnhancer"]
+3:I[73270,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"BlogNav"]
+4:I[22016,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],""]
+5:I[5500,["https://prenukaiah.com/_next/static/chunks/9b493b40f9cb9e48.js","https://prenukaiah.com/_next/static/chunks/d2f11171c330471e.js","https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js"],"Image"]
+15:I[97367,["https://prenukaiah.com/_next/static/chunks/ff1a16fafef87110.js","https://prenukaiah.com/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"buildId":"99001wpI6bz_lCZUSUOM2","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-7xl mx-auto px-4 py-12","children":[["$","$L2",null,{}],["$","div",null,{"className":"grid lg:grid-cols-4 gap-8","children":[["$","div",null,{"className":"lg:col-span-1 order-2 lg:order-1","children":["$","$L3",null,{"currentSlug":"java-virtual-threads-production-experience"}]}],["$","div",null,{"className":"lg:col-span-3 order-1 lg:order-2","children":[["$","$L4",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to blog"]}],["$","article",null,{"children":[["$","div",null,{"className":"relative h-64 md:h-80 mb-8 rounded-lg overflow-hidden","children":["$","$L5",null,{"src":"/images/blog/java-virtual-threads.png","alt":"Java Virtual Threads in the Real World: What Worked, What Broke, and Why Java 25 Is the Right Time to Adopt","fill":true,"className":"object-cover"}]}],["$","header",null,{"className":"mb-8","children":[["$","$L4",null,{"href":"/blog/category/java","className":"inline-flex items-center gap-1 text-sm text-blue-600 hover:text-blue-700 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Java"]}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-6 leading-tight","children":"Java Virtual Threads in the Real World: What Worked, What Broke, and Why Java 25 Is the Right Time to Adopt"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-gray-600 dark:text-gray-400 mb-6","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","div",null,{"className":"relative overflow-hidden w-8 h-8 rounded-full","children":["$","$L5",null,{"src":"/profile_photo.png","alt":"Pradeep Renukaiah","fill":true,"className":"object-cover","style":{"objectPosition":"center 15%"},"priority":false}]}],["$","span",null,{"className":"font-medium","children":"Pradeep Renukaiah"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2025-12-22","children":"December 22, 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"7 min read"}]]}],["$","button",null,{"className":"flex items-center gap-1 hover:text-blue-600 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-share2 w-4 h-4","children":[["$","circle","gq8acd",{"cx":"18","cy":"5","r":"3"}],["$","circle","w7nqdw",{"cx":"6","cy":"12","r":"3"}],["$","circle","1xt0gg",{"cx":"18","cy":"19","r":"3"}],["$","line","47mynk",{"x1":"8.59","x2":"15.42","y1":"13.51","y2":"17.49"}],"$L6","$undefined"]}],"$L7"]}]]}],"$L8"]}],"$L9","$La","$Lb","$Lc"]}]]}]]}]]}],["$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+6:["$","line","1n3mei",{"x1":"15.41","x2":"8.59","y1":"6.51","y2":"10.49"}]
+7:["$","span",null,{"children":"Share"}]
+8:["$","p",null,{"className":"text-xl text-gray-700 dark:text-gray-300 leading-relaxed","children":"Virtual threads are one of those platform changes that don't just tweak Java — they change how you think about building services. Learn from production experiences, including Netflix's journey, and why Java 25 makes adoption finally safe."}]
+f:T275f,<p>Virtual threads are one of those platform changes that don&#39;t just tweak Java — they change how you think about building services.</p>
+<p>When Project Loom landed in Java 21, many of us had the same reaction:</p>
+<p><strong>&quot;Wait… I can write blocking code again and still scale?&quot;</strong></p>
+<p>Yes — mostly. But as always, production has a way of stress-testing every abstraction.</p>
+<p>Some teams saw immediate wins. Others (Netflix included) ran into a subtle but serious edge case called <strong>thread pinning</strong> that could quietly stall services under load.</p>
+<p>The good news: the root issue was fixed in Java 24 — and with Java 25 now the LTS, virtual threads are finally at a point where adoption makes sense for both engineers and engineering leaders.</p>
+<p>This post is written for people who care about how systems behave after launch, not just how clean the code looks.</p>
+<h2>The Mental Model That Actually Matters</h2>
+<p>A virtual thread is <strong>not</strong> a lightweight OS thread.</p>
+<p>The model that works in practice is:</p>
+<ul>
+<li><strong>Virtual threads are scheduled by the JVM</strong></li>
+<li><strong>They run on a limited pool of real OS threads called carrier threads</strong></li>
+<li><strong>When a virtual thread blocks on I/O, it usually steps aside</strong></li>
+<li><strong>The carrier thread is immediately reused</strong></li>
+</ul>
+<p>That&#39;s the key idea: <strong>blocking code without blocking the OS</strong>.</p>
+<pre><code class="language-java">try (var executor = Executors.newVirtualThreadPerTaskExecutor()) {
+    executor.submit(() -&gt; handleRequest());
+}
+</code></pre>
+<p>You can create a lot of these — hundreds of thousands or more — without the JVM falling over.</p>
+<p>That&#39;s fundamentally different from traditional thread pools.</p>
+<h2>Virtual Threads with Spring Boot (This Part Is Refreshingly Boring)</h2>
+<p>Spring Boot made virtual threads almost trivial to turn on — which is exactly what you want.</p>
+<p><strong>Enable virtual threads:</strong></p>
+<pre><code class="language-yaml">spring:
+  threads:
+    virtual:
+      enabled: true
+</code></pre>
+<p>Once enabled:</p>
+<ul>
+<li>Each incoming HTTP request runs on a virtual thread</li>
+<li>Controllers and services stay synchronous</li>
+<li>No reactive rewrite</li>
+<li>No callback gymnastics</li>
+</ul>
+<p><strong>A plain Spring MVC controller — unchanged:</strong></p>
+<pre><code class="language-java">@RestController
+@RequestMapping(&quot;/orders&quot;)
+public class OrderController {
+    
+    private final OrderService service;
+    
+    public OrderController(OrderService service) {
+        this.service = service;
+    }
+    
+    @GetMapping(&quot;/{id}&quot;)
+    public Order getOrder(@PathVariable String id) {
+        return service.getOrder(id); // blocking DB call is fine
+    }
+}
+</code></pre>
+<p>From a code readability standpoint, nothing changed. From a scalability standpoint, everything did.</p>
+<p>And then people started running this under real traffic.</p>
+<h2>The Sharp Edge Teams Ran Into: Thread Pinning</h2>
+<p>Thread pinning is one of those issues you don&#39;t notice — until it hurts badly.</p>
+<p>It happens when a virtual thread <strong>cannot detach</strong> from its carrier thread.</p>
+<p>When that happens:</p>
+<ul>
+<li>The carrier thread is stuck</li>
+<li>Enough pinned virtual threads → no free carriers</li>
+<li>Requests stop making progress</li>
+<li>CPU usage stays deceptively low</li>
+<li>Latency graphs look catastrophic</li>
+</ul>
+<p>That combination made the problem especially hard to diagnose.</p>
+<h3>The Most Common Way Teams Accidentally Pinned Threads</h3>
+<p><strong>Blocking while holding a synchronized lock.</strong></p>
+<p>Here&#39;s a simplified example that looks perfectly reasonable:</p>
+<pre><code class="language-java">@Service
+public class InventoryService {
+    
+    private final Map&lt;String, Integer&gt; cache = new HashMap&lt;&gt;();
+    
+    // ❌ problematic with virtual threads (Java 21–23)
+    public synchronized int getInventory(String sku) {
+        return cache.computeIfAbsent(sku, this::loadFromDb);
+    }
+    
+    private int loadFromDb(String sku) {
+        return jdbcTemplate.queryForObject(
+            &quot;select qty from inventory where sku = ?&quot;,
+            Integer.class,
+            sku
+        );
+    }
+}
+</code></pre>
+<p><strong>What&#39;s really happening:</strong></p>
+<ol>
+<li><code>synchronized</code> uses JVM monitors</li>
+<li>A virtual thread enters the monitor</li>
+<li>JDBC blocks while the monitor is held</li>
+<li>The JVM pins the virtual thread to its carrier</li>
+<li>That carrier can&#39;t run anything else</li>
+</ol>
+<p>Under enough traffic, you exhaust carriers. The service doesn&#39;t crash — it just stops responding.</p>
+<h2>Netflix&#39;s Experience (And Why It Matters)</h2>
+<p>Netflix adopted virtual threads early and ran into exactly this failure mode in production.</p>
+<p><strong>The symptoms were confusing:</strong></p>
+<ul>
+<li>Requests appeared &quot;hung&quot;</li>
+<li>Thread dumps showed plenty of virtual threads</li>
+<li>CPU usage wasn&#39;t high</li>
+<li>Scaling thread pools didn&#39;t help</li>
+</ul>
+<p>After investigation, Netflix traced the issue back to <code>synchronized</code> blocks combined with blocking I/O, which caused virtual threads to pin and exhaust carrier threads.</p>
+<h3>How Netflix Handled It (Pre–Java 24)</h3>
+<p>Netflix didn&#39;t abandon virtual threads. Instead, they:</p>
+<p><strong>Refactored synchronized hot spots:</strong></p>
+<ul>
+<li>Replaced <code>synchronized</code> with <code>ReentrantLock</code></li>
+<li>Reduced lock scope</li>
+<li>Avoided blocking while holding locks</li>
+</ul>
+<p><strong>Instrumented aggressively:</strong></p>
+<ul>
+<li>Used Java Flight Recorder (JFR) events like <code>VirtualThreadPinned</code> to find problem areas</li>
+</ul>
+<p><strong>Rolled out selectively:</strong></p>
+<ul>
+<li>Virtual threads only where code paths and libraries were well understood</li>
+</ul>
+<p>Netflix documented this journey publicly and shared their learnings with the Java community — which directly influenced improvements in the JVM.</p>
+<p>👉 <strong>If you want to read the original Netflix write-up, it&#39;s here:</strong> <a href="https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d">&quot;Java 21 Virtual Threads – Dude, Where&#39;s My Lock?&quot;</a></p>
+<p>Full credit to the Netflix engineering team for being transparent about what broke and why — the ecosystem is better because of it.</p>
+<h2>The Workaround Most Teams Used Before Java 24</h2>
+<p>Here&#39;s the safer version of the earlier example:</p>
+<pre><code class="language-java">@Service
+public class InventoryService {
+    
+    private final Map&lt;String, Integer&gt; cache = new HashMap&lt;&gt;();
+    private final Lock lock = new ReentrantLock();
+    
+    public int getInventory(String sku) {
+        Integer cached;
+        
+        lock.lock();
+        try {
+            cached = cache.get(sku);
+        } finally {
+            lock.unlock();
+        }
+        
+        if (cached != null) {
+            return cached;
+        }
+        
+        // blocking happens outside the lock
+        int qty = loadFromDb(sku);
+        
+        lock.lock();
+        try {
+            cache.put(sku, qty);
+        } finally {
+            lock.unlock();
+        }
+        
+        return qty;
+    }
+}
+</code></pre>
+<p>This works. It avoids pinning. It also adds complexity that many teams didn&#39;t love spreading across large codebases.</p>
+<h2>What Changed in Java 24 — And Why Java 25 Is the Real Inflection Point</h2>
+<p>Java 24 introduced <strong>JEP 491</strong>, which fundamentally changed how <code>synchronized</code> interacts with virtual threads.</p>
+<p><strong>In short:</strong></p>
+<ul>
+<li>Monitors are no longer tied to carrier threads</li>
+<li>Virtual threads can block while holding a monitor</li>
+<li>Carrier threads are free to run other work</li>
+<li>The most common pinning scenario disappears</li>
+</ul>
+<p>That means this code:</p>
+<pre><code class="language-java">public synchronized Order load(String id) {
+    return repository.findById(id);
+}
+</code></pre>
+<ul>
+<li>❌ risky in Java 21–23</li>
+<li>✅ generally safe starting in Java 24</li>
+<li>✅ safe and LTS-backed in Java 25</li>
+</ul>
+<p>This matters because <strong>Java 25 is the first LTS where virtual threads are both stable and safe by default</strong>.</p>
+<p>There are still edge cases (native code, JNI), but the biggest foot-gun is gone.</p>
+<h2>What This Means for Engineers and Engineering Leaders</h2>
+<p>A few grounded takeaways:</p>
+<ul>
+<li><strong>Java 21</strong> made virtual threads usable</li>
+<li><strong>Java 24</strong> fixed the most dangerous behavior</li>
+<li><strong>Java 25</strong> makes virtual threads an LTS-safe default</li>
+<li><strong>Spring Boot</strong> makes adoption trivial</li>
+<li><strong>Observability</strong> still matters</li>
+<li><strong>You don&#39;t need to rewrite your architecture</strong> to benefit</li>
+</ul>
+<p>The risk profile has shifted meaningfully.</p>
+<p>What felt &quot;cool but scary&quot; a year ago now feels… reasonable.</p>
+<h2>Final Thought</h2>
+<p>Virtual threads aren&#39;t about squeezing more threads into the JVM.</p>
+<p>They&#39;re about:</p>
+<ul>
+<li><strong>Returning to simple, readable, synchronous code</strong></li>
+<li><strong>Scaling I/O-heavy services without reactive complexity</strong></li>
+<li><strong>Avoiding architectural contortions we all learned to tolerate</strong></li>
+</ul>
+<p>With Java 25 as LTS — and lessons from teams like Netflix baked into the platform — this finally feels like the right moment.</p>
+<p>If you&#39;ve been watching Loom from the sidelines, now&#39;s the time to step in.</p>
+<hr>
+<p><em>What&#39;s your experience with virtual threads in production? I&#39;d be interested to hear about your adoption journey and any challenges you&#39;ve encountered in enterprise environments.</em></p>
+9:["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1 prose-code:py-0.5 prose-code:rounded prose-pre:bg-gray-100 dark:prose-pre:bg-gray-800","dangerouslySetInnerHTML":{"__html":"$f"}}]
+a:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900 dark:text-gray-100 mb-4","children":"Tags"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L4","Java",{"href":"/blog/tag/java","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Java"]}],["$","$L4","Virtual Threads",{"href":"/blog/tag/virtual threads","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Virtual Threads"]}],["$","$L4","Performance",{"href":"/blog/tag/performance","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Performance"]}],["$","$L4","Enterprise Architecture",{"href":"/blog/tag/enterprise architecture","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],"Enterprise Architecture"]}],["$","$L4","Spring Boot",{"href":"/blog/tag/spring boot","className":"inline-flex items-center gap-1 text-sm bg-gray-100 dark:bg-gray-800 px-3 py-1 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-3 h-3","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],"$L10","$undefined"]}],"Spring Boot"]}]]}]]}]
+b:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"relative overflow-hidden w-16 h-16 rounded-full flex-shrink-0","children":["$","$L5",null,{"src":"/profile_photo.png","alt":"Pradeep Renukaiah","fill":true,"className":"object-cover","style":{"objectPosition":"center 20%"},"priority":false}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold text-lg mb-2","children":["About ","Pradeep Renukaiah"]}],["$","p",null,{"className":"text-gray-700 dark:text-gray-300 mb-4","children":"Strategic and hands-on technology leader with 21+ years of experience driving large-scale digital commerce transformation, cloud-native engineering, and MarTech platform modernization. Leading enterprise architecture, cloud transformation, and developer experience initiatives across digital commerce, cloud platforms, CRM, MDM, and MarTech ecosystems that power mission-critical retail and e-commerce operations."}],["$","a",null,{"href":"https://www.linkedin.com/in/pradeep0809/","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-700 font-medium","children":"Connect on LinkedIn →"}]]}]]}]}]
+c:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"bg-gray-50 dark:bg-gray-800 rounded-lg p-6","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-message-circle w-5 h-5 text-blue-600","children":[["$","path","vv11sd",{"d":"M7.9 20A9 9 0 1 0 4 16.1L2 22Z"}],"$undefined"]}],["$","h3",null,{"className":"text-lg font-semibold","children":"Share Your Thoughts"}]]}],["$","p",null,{"className":"text-gray-700 dark:text-gray-300 mb-6","children":"I'd love to hear your feedback, questions, or thoughts on this article. Here are several ways to connect and continue the conversation:"}],["$","div",null,{"className":"grid md:grid-cols-2 gap-4","children":[["$","a",null,{"href":"mailto:hello@prenukaiah.com?subject=Feedback%20on%3A%20Java%20Virtual%20Threads%20in%20the%20Real%20World%3A%20What%20Worked%2C%20What%20Broke%2C%20and%20Why%20Java%2025%20Is%20the%20Right%20Time%20to%20Adopt&body=Hi%20Pradeep%2C%0A%0AI%20just%20read%20your%20article%20%22Java%20Virtual%20Threads%20in%20the%20Real%20World%3A%20What%20Worked%2C%20What%20Broke%2C%20and%20Why%20Java%2025%20Is%20the%20Right%20Time%20to%20Adopt%22%20and%20wanted%20to%20share%20some%20thoughts%3A%0A%0A%5BYour%20feedback%20here%5D%0A%0ABest%20regards","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail w-4 h-4 text-blue-600","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Email Me"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Send direct feedback or questions"}]]}]]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fprenukaiah.com%2Fblog%2Fjava-virtual-threads-production-experience","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link w-4 h-4 text-blue-600","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Discuss on LinkedIn"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Share and start a professional discussion"}]]}]]}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Great%20insights%20from%20@pradeep0809:%20Java%20Virtual%20Threads%20in%20the%20Real%20World%3A%20What%20Worked%2C%20What%20Broke%2C%20and%20Why%20Java%2025%20Is%20the%20Right%20Time%20to%20Adopt&url=https%3A%2F%2Fprenukaiah.com%2Fblog%2Fjava-virtual-threads-production-experience","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":["$L11","$L12"]}],"$L13"]}],"$L14"]}]}]
+d:["$","script","script-0",{"src":"https://prenukaiah.com/_next/static/chunks/22569302c4fea7e5.js","async":true}]
+e:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+10:["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}]
+11:["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-share2 w-4 h-4 text-blue-600","children":[["$","circle","gq8acd",{"cx":"18","cy":"5","r":"3"}],["$","circle","w7nqdw",{"cx":"6","cy":"12","r":"3"}],["$","circle","1xt0gg",{"cx":"18","cy":"19","r":"3"}],["$","line","47mynk",{"x1":"8.59","x2":"15.42","y1":"13.51","y2":"17.49"}],["$","line","1n3mei",{"x1":"15.41","x2":"8.59","y1":"6.51","y2":"10.49"}],"$undefined"]}]}]
+12:["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Share on Twitter"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Share with your network"}]]}]
+13:["$","a",null,{"href":"https://www.linkedin.com/in/pradeep0809/","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-3 p-4 border border-gray-200 dark:border-gray-600 rounded-lg hover:border-blue-500 dark:hover:border-blue-500 transition-colors group","children":[["$","div",null,{"className":"p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg group-hover:bg-blue-200 dark:group-hover:bg-blue-900/50 transition-colors","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-heart w-4 h-4 text-blue-600","children":[["$","path","c3ymky",{"d":"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-medium text-gray-900 dark:text-gray-100","children":"Connect on LinkedIn"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":"Let's connect and continue the conversation"}]]}]]}]
+14:["$","div",null,{"className":"mt-6 pt-4 border-t border-gray-200 dark:border-gray-600","children":["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":[["$","strong",null,{"children":"Response Time:"}]," I typically respond to emails and LinkedIn messages within 24-48 hours. Looking forward to hearing from you!"]}]}]
+17:null

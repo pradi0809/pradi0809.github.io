@@ -1,0 +1,21 @@
+{
+  "name": "Pradeep Renukaiah - Tech Leadership Blog",
+  "short_name": "PR Blog",
+  "description": "Technology leadership insights and engineering excellence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
